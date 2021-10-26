@@ -11,7 +11,7 @@ Settings will be such as:
 ```
 Address: 10.1.0.2-10.1.0.9
 CIDR: 10.1.0.0/24
-Netmask: 255.1.255.0
+Netmask: 255.255.255.0
 Gateway: 10.1.0.1
 DNS: 1.1.1.1
 ```
